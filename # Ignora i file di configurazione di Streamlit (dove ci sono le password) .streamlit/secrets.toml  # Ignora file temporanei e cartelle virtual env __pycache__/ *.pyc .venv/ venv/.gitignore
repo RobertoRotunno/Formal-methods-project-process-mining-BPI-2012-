@@ -1,0 +1,9 @@
+# Ignora i file di configurazione di Streamlit (dove ci sono le password)
+.streamlit/secrets.toml
+
+# Ignora file temporanei e cartelle virtual env
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env

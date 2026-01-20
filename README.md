@@ -119,4 +119,4 @@ In caso di errori di quota o scadenza, è possibile sostituire la variabile GEMI
 ## Autore
 
 Roberto Rotunno  
-Progetto per il corso di Metodi Formali / Process Mining
+Progetto per il corso di Metodi Formali
